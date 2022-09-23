@@ -1,1 +1,3 @@
-> Fork deze leertaak en ga aan de slag, de instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+Dit is de repo van onze squadpage. Voor onze squadpage hebben we gebruik gemaakt van HTML, CSS en Javascript.
+Dit is een link naar de live versie van onze squadpage:
+https://codeforce.student.fdnd.nl/
